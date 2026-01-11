@@ -1,0 +1,5 @@
+baseURL = "https://master.d2mhfaxaqjqqrs.amplifyapp.com/"
+languageCode = "en-us"
+title = "My Portfolio"
+theme = "portfolio"  # replace with your theme folder name
+paginate = 10
